@@ -20,6 +20,7 @@
 <body>
     <!-- 
         action es a donde se dirige la informacion
+        si esta vacio por defecto se redirije asi si mismo
     -->
     <form action="" method="post">
         <input type="number" name="Num1" placeholder="ingrese un numero..."> <br>
