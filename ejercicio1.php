@@ -23,6 +23,10 @@
         si esta vacio por defecto se redirije asi si mismo
     -->
     <form action="" method="post">
+        <!-- 
+            el atributo "name" es super importante porque con ese 
+            nombre despues recibe el metodo POST 
+        -->
         <input type="number" name="Num1" placeholder="ingrese un numero..."> <br>
         <input type="number" name="num2" placeholder="ingrese un numero..."> <br>
 
